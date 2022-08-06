@@ -24,4 +24,6 @@ src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7L6h4dIiNb3R1l5SDCQp
   <a href="https://www.linkedin.com/in/gabriel-rojo-novais/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
   
