@@ -12,7 +12,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.s
   <img align="center" alt="Gabriel-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Gabriel-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="center" alt="Gabriel-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"/>
+
   
 
   
